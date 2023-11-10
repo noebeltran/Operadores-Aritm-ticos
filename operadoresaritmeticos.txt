@@ -1,0 +1,10 @@
+Los operadores aritméticos son:
+- + Suma
+
+- - Resta
+
+- * Multiplicación
+
+- / División
+
+- % Resto de la división
